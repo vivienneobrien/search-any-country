@@ -4,7 +4,7 @@
 This project was build to consolidate my knowledge of React.js and explore props, componenets, states (useState() & useEffect()), higher order functions, call multiple APIs, make APIs interact and explore different libraries to perform a given task.
 
 ## Heroku Deployment Url
-[search-any-country.herokyapp.com](https://search-any-country.herokuapp.com/)
+[https://search-any-country.herokuapp.com/](https://search-any-country.herokuapp.com/)
 
 ## Features
 - A user can search a given country to find out the capital city of that country, the population, flag(Country API) and the weather temperature of that day (Weather API).
