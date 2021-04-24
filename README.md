@@ -1,8 +1,10 @@
 # Countries: Tier-2 Front-End Project
 
-
 ## Overview
 This project was build to consolidate my knowledge of React.js and explore props, componenets, states (useState() & useEffect()), higher order functions, call multiple APIs, make APIs interact and explore different libraries to perform a given task.
+
+## Heroku Deployment Url
+<a href=https://search-any-country.herokuapp.com/ alt="search-any-country.herokyapp.com"> </a>
 
 ## Features
 - A user can search a given country to find out the capital city of that country, the population, flag(Country API) and the weather temperature of that day (Weather API).
