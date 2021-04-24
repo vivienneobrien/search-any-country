@@ -1,3 +1,36 @@
+# Countries: Tier-2 Front-End Project
+
+
+## Overview
+This project was build to consolidate my knowledge of React.js and explore props, componenets, states (useState() & useEffect()), higher order functions, call multiple APIs, make APIs interact and explore different libraries to perform a given task.
+
+## Features
+- A user can search a given country to find out the capital city of that country, the population, flag(Country API) and the weather temperature of that day (Weather API).
+- A user has to input over one character to the search bar in order to view options.
+- A user can press a button to rotate which country they want to view in the output.
+
+<img src="images/too-small-input.png" alt="Be more specific with input" width="200"/>
+<img src="images/choose-country.png" alt="Choose Country" width="200"/>
+<img src="images/display-country.png" alt="Display Country" width="200"/>
+
+## Running the project
+- npm install node.js
+- npm start
+
+
+## Dependencies
+
+- React 
+- React-Dom
+
+## To do
+
+- Make more responsive
+- Make sure that you handle errors! 
+- Account for an API not responding, etc.
+- Make sure that your node_modules are in your .gitignore instead of on GitHub.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
