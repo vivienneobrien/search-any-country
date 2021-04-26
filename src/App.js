@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import InputCheck from "./InputCheck"
-import ShowData from "./componenets/ShowData"
+import ShowData from "./components/ShowData"
 
 function App() {
   const [countryNames, setCountryNames] = useState([])
