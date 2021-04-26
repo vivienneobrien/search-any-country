@@ -1,7 +1,8 @@
-# Countries: Tier-2 Front-End Project
+# Search Any Country: Tier-2 Front-End Project
 
 ## Overview
-This project was built to consolidate my knowledge of React.js by using props, componenets, states (useState() & useEffect()), higher order functions, call multiple APIs, make APIs interact and explore different libraries to perform a given task (axios/nanoid).
+This project was built to consolidate my knowledge of React.js by using props, componenets, states (useState() & useEffect()), higher order functions, call multiple APIs, make APIs interact and explore different libraries to perform a given task (axios/nanoid). This project was also created to be my solo project for the Chingu tier 2 submission ([https://chingu.io/](https://chingu.io/)). Chingu is an organisation that groups a participant up with other developers around the world in order to take part in a team project using a certain tech stack at a professional level where agile sprints are carried out on a weekly basis.
+
 
 ## Heroku Deployment Url
 [https://search-any-country.herokuapp.com/](https://search-any-country.herokuapp.com/)
