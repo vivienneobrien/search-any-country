@@ -1,4 +1,6 @@
 import { nanoid } from "nanoid";
+import './index.css'
+
 
 const InputCheck = ({setShowCountryData, countryNames, inputCountryNames}) => {
     const filterCountries = countryNames.filter((element) =>
@@ -18,7 +20,7 @@ const InputCheck = ({setShowCountryData, countryNames, inputCountryNames}) => {
     }
       else {
       return filterCountries.map((element) => (
-        <div key={nanoid()}>{element.name}
+        <div className = "countryList" key={nanoid()}>{element.name} <br/>
         <button onClick={()=>{setShowCountryData(element)}}> Show </button> 
         {/* use effect will fire everytime you chnage setShowCountryData */}
         </div>

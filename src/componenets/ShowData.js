@@ -4,12 +4,14 @@
     const country = showCountryData
     const weather = showWeather 
     return( <div>
-          <h1> {country.name} </h1><br/>
-          <h4>{country.capital} </h4><br/>
-          {new Intl.NumberFormat('en-IN', { maximumSignificantDigits: 3 }).format(country.population)} <br/>
-          {country.languages.map((e) => e.name).join(", ")}<br/>
+          <h4>Country Name: {country.name} </h4>
+          <h4 className="countryCapital">Capital: {country.capital} </h4><br/>
+          <h4>Current Country Temperature: {weather.temperature}</h4>
+          <h4>Population: {new Intl.NumberFormat('en-IN', { maximumSignificantDigits: 3 }).format(country.population)} <br/></h4>
+          <h4>Languages Spoken: {country.languages.map((e) => e.name).join(", ")}<br/></h4>
+          <h4>Country Flag: </h4>
           <img src={country.flag} alt="Country Flag" width={300}/>
-          <h4>{weather.temperature}</h4>
+       
         </div>
     )
     }
