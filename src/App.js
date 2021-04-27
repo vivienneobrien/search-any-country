@@ -1,13 +1,8 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import InputCheck from "./InputCheck"
-<<<<<<< HEAD
-import ShowData from "./componenets/ShowData"
 import './index.css'
-
-=======
 import ShowData from "./components/ShowData"
->>>>>>> 772172e7253db95defa85f5c48154d47834d1204
 
 function App() {
   const [countryNames, setCountryNames] = useState([])
