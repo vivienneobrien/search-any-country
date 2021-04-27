@@ -1,5 +1,4 @@
-# Search Any Country:  <br>
-Tier-2 Front-End Project
+# Search Any Country: Front-End Project (Tier 2)
 
 ## Overview
 This project was built so that users can search a country and find out information related to that country using two different APIs. 
