@@ -6,13 +6,9 @@ import ShowData from "./components/ShowData"
 
 function App() {
   const [countryNames, setCountryNames] = useState([])
-//	cosole.log("​App -> countryNames", countryNames)
   const [inputCountryNames, setInputCountryNames] = useState("")
-	// console.log("​App -> inputCountryNames", inputCountryNames)
   const [showCountryData, setShowCountryData] = useState({})
-	// console.log("​App -> showCountryData", showCountryData)
   const [showWeather, setShowWeather] = useState({})
-	// console.log("​App -> showWeather", showWeather)
 
   useEffect(() => {
     axios
