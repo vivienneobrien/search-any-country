@@ -14,7 +14,6 @@ This project was built to consolidate my knowledge of React.js by using props, c
 - A user has to input over one character to the search bar in order to view options.
 - A user can press a button to rotate which country they want to view in the output.
 
-<img src="images/too-small-input.png" alt="Be more specific with input" width="200"/>
 <img src="images/choose-country.png" alt="Choose Country" width="200"/>
 <img src="images/display-country.png" alt="Display Country" width="200"/>
 
