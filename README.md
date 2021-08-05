@@ -1,7 +1,7 @@
 # Search Any Country: Front-End Project (Tier 2)
 
 ## Overview
-This project was built so that users can search a country and find out information related to that country using two different APIs. This project was recreated in this project using only React.js https://github.com/vivienneobrien/search-anything-final
+This project was built so that users can search a country and find out information related to that country using two different APIs. 
 
 ## Additional Overview
 This project was built to consolidate my knowledge of React.js by using props, components, react hooks (useState() & useEffect()), higher order functions, call multiple APIs, make APIs interact and explore different libraries to perform a given task ([axios](https://github.com/axios/axios)/[nanoid](https://www.npmjs.com/package/nanoid)). This project was also created to be my solo project for the Chingu tier 2 submission ([https://chingu.io/](https://chingu.io/)). Chingu is an organisation that groups a participant up with other developers around the world in order to take part in a team project using a certain tech stack of their choice at a professional level where agile sprints are carried out on a weekly basis. In the future I hope to become a fullstack javascript developer using React.js, Node.js & Typescript.
